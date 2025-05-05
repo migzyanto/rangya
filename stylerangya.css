@@ -1,0 +1,22 @@
+body {
+  font-family: Georgia, "Times New Roman", Times;
+}
+form-container {
+  color: #163226;
+}
+
+.register-btn {
+  background-color: #163226; /* Button background */
+  color: #ffffff; /* Text color */
+  border-color: #163226; /* Optional: matches the background */
+}
+
+.register-btn:hover {
+  background-color: #0f241a; /* Darker on hover */
+  border-color: #0f241a;
+}
+
+label:hover {
+  border-color: #0f241a;
+  background-color: #0f241a; /* Darker on hover */
+}
